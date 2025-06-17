@@ -33,7 +33,7 @@ Tools         = [ "Google Colab", "Jupyter Notebook", "Git", "VS Code" ]
 |--------|-------------|------------|
 | [Brain Tumor Classification](https://github.com/Rohitraj-21/Brain_Tumor_Classification) | Classifies MRI brain scans into 4 tumor categories using ResNet50 and transfer learning. | PyTorch, CNN |
 | [Customer Churn Prediction](https://github.com/Rohitraj-21/Customer_Churn_Prediction) | Predicts telecom customer churn using logistic regression, random forest, and XGBoost. | Scikit-learn, XGBoost |
-| [Skin Cancer Detection](https://github.com/Rohitraj-21/Skin_Cancer_Detection) | Classifies skin lesions from HAM10000 dataset using CNN with transfer learning. | PyTorch, ResNet50 |
+| [Skin Cancer Detection](https://github.com/Rohitraj-21/Skin_Cancer_Classification) | Classifies skin lesions from HAM10000 dataset using CNN with transfer learning. | PyTorch, ResNet50 |
 
 ---
 

@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rohit Raj 👋</h1>
 
-<!--
-**Rohitraj-21/Rohitraj-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Machine Learning Enthusiast | Deep Learning Developer | CSE Undergrad at SLIET, Punjab</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🎓 Pursuing B.E. in Computer Science and Engineering at SLIET, Punjab.
+- 🤖 Passionate about solving real-world problems using Machine Learning and Deep Learning.
+- 💡 Currently building a Facial Emotion Recognition system using a hybrid of CNN (ResNet50), Vision Transformer (ViT), and EfficientNet.
+- 📊 Interested in Computer Vision, Medical Imaging, and AI model interpretability.
+- 🚀 Always exploring new projects and participating in hackathons.
+
+---
+
+### 🛠️ Tech Stack
+
+```python
+Languages     = [ "Python", "C++", "SQL" ]
+Libraries     = [ "Scikit-learn", "NumPy", "Pandas", "Matplotlib", "Seaborn" ]
+Frameworks    = [ "PyTorch"]
+Tools         = [ "Google Colab", "Jupyter Notebook", "Git", "VS Code" ]
+```
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Brain Tumor Classification](https://github.com/Rohitraj-21/Brain-Tumor-Classification) | Classifies MRI brain scans into 4 tumor categories using ResNet50 and transfer learning. | PyTorch, CNN |
+| [Facial Emotion Recognition](https://github.com/Rohitraj-21/Emotion-Recognition) | Hybrid model using ResNet50, ViT, and EfficientNet to detect emotions on faces with 74% accuracy (ongoing). | PyTorch, Transformers |
+| [Customer Churn Prediction](https://github.com/Rohitraj-21/Churn-Prediction) | Predicts telecom customer churn using logistic regression, random forest, and XGBoost. | Scikit-learn, XGBoost |
+| [Skin Cancer Detection](https://github.com/Rohitraj-21/Skin-Cancer-Detection) | Classifies skin lesions from HAM10000 dataset using CNN with transfer learning. | PyTorch, ResNet50 |
+
+---
+
+### 🔧 What I'm Working On
+
+- Strengthening concepts of Transfer Learning with various CNN and Transformer models.
+- Solving DSA problems regularly on platforms like LeetCode and GFG.
+- Learning about model evaluation techniques and performance tuning.
+- Exploring ensemble models and multi-model fusion strategies in Deep Learning.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohitraj-21&show_icons=true&theme=default" />
+</p>
+
+---
+
+### 📫 Contact Me
+
+- 📧 [rohitraj4757@gmail.com](mailto:rohitraj4757@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-raj-082b3136b)
+- 🧠 [GitHub](https://github.com/Rohitraj-21)

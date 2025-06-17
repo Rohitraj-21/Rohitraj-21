@@ -31,10 +31,9 @@ Tools         = [ "Google Colab", "Jupyter Notebook", "Git", "VS Code" ]
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Brain Tumor Classification](https://github.com/Rohitraj-21/Brain-Tumor-Classification) | Classifies MRI brain scans into 4 tumor categories using ResNet50 and transfer learning. | PyTorch, CNN |
-| [Facial Emotion Recognition](https://github.com/Rohitraj-21/Emotion-Recognition) | Hybrid model using ResNet50, ViT, and EfficientNet to detect emotions on faces with 74% accuracy (ongoing). | PyTorch, Transformers |
-| [Customer Churn Prediction](https://github.com/Rohitraj-21/Churn-Prediction) | Predicts telecom customer churn using logistic regression, random forest, and XGBoost. | Scikit-learn, XGBoost |
-| [Skin Cancer Detection](https://github.com/Rohitraj-21/Skin-Cancer-Detection) | Classifies skin lesions from HAM10000 dataset using CNN with transfer learning. | PyTorch, ResNet50 |
+| [Brain Tumor Classification](https://github.com/Rohitraj-21/Brain_Tumor_Classification) | Classifies MRI brain scans into 4 tumor categories using ResNet50 and transfer learning. | PyTorch, CNN |
+| [Customer Churn Prediction](https://github.com/Rohitraj-21/Customer_Churn_Prediction) | Predicts telecom customer churn using logistic regression, random forest, and XGBoost. | Scikit-learn, XGBoost |
+| [Skin Cancer Detection](https://github.com/Rohitraj-21/Skin_Cancer_Detection) | Classifies skin lesions from HAM10000 dataset using CNN with transfer learning. | PyTorch, ResNet50 |
 
 ---
 
